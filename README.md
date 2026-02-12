@@ -2,7 +2,6 @@
 
 **vdiskusage** is a high-performance, professional disk usage analyzer built for Linux. It combines the raw speed of native C/C++ system calls with the modern, reactive UI of Flutter, wrapped in a stunning glassmorphic design.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux-linux.svg)
 ![Status](https://img.shields.io/badge/status-Stable-green.svg)
 
