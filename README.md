@@ -83,15 +83,5 @@ Customize your experience via the Settings panel:
 - **Max Depth**: Limit scan depth for performance on massive filesystems.
 - **Cache**: Manage scan result caching to speed up subsequent views.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please verify that your changes pass the analyzer:
-
-```bash
-flutter analyze
-```
-
-
-
 ---
 *This project is part of the VAXP organization*
