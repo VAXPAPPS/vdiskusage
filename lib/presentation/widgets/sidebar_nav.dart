@@ -39,15 +39,7 @@ class _SidebarNavState extends State<SidebarNav> {
         duration: AppConstants.animationDuration,
         curve: AppConstants.animationCurve,
         width: width,
-        decoration: BoxDecoration(
-          color: Colors.white.withOpacity(0.05),
-          border: Border(
-            right: BorderSide(
-              color: Colors.white.withOpacity(0.08),
-              width: 1,
-            ),
-          ),
-        ),
+        
         child: Column(
           children: [
             const SizedBox(height: 12),
